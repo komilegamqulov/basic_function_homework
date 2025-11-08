@@ -3,3 +3,5 @@
 # 1. Take no parameters
 # 2. Return any string value
 # Example return values: "Hello World", "0", "Python", etc.
+def return_string():
+  return "upwork"
