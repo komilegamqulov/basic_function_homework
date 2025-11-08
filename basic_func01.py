@@ -2,3 +2,5 @@
 # Function should:
 # 1. Take no parameters
 # 2. Return the integer value 0
+def return_zero():
+  return 0
