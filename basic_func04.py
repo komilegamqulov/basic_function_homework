@@ -3,3 +3,5 @@
 # 1. Take no parameters
 # 2. Return any integer value (positive or negative)
 # Example return values: 1, -1, 0, 42, etc.
+def return_integar():
+  return 667
